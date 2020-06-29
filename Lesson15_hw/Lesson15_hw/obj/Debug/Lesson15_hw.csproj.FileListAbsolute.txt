@@ -1,0 +1,7 @@
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\bin\Debug\Lesson15_hw.exe.config
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\bin\Debug\Lesson15_hw.exe
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\bin\Debug\Lesson15_hw.pdb
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\obj\Debug\Lesson15_hw.csprojAssemblyReference.cache
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\obj\Debug\Lesson15_hw.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\obj\Debug\Lesson15_hw.exe
+C:\Users\LENOVO-1\source\repos\Lesson15_hw\Lesson15_hw\obj\Debug\Lesson15_hw.pdb
